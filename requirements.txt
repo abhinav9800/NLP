@@ -2,3 +2,6 @@ flask
 spacy 
 textblob 
 requests
+wordcloud 
+python-docx 
+nltk
